@@ -8,5 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Thanks to [React Single page with tailwind css and framer motion] (https://www.youtube.com/watch?v=_kBiWes35pw)  
+Thanks to [React Single page with tailwind css and framer motion](https://www.youtube.com/watch?v=_kBiWes35pw)  
 [github of the project](https://github.com/prabinmagar/requaps-template-with-reactjs-tailwind-css-and-framer-motion)
