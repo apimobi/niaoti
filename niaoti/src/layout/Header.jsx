@@ -154,7 +154,7 @@ const Header = () => {
             onChange={handleEmail}
             type="email"
             placeholder="Enter your email"
-            className="lg:min-h-[56px] min-h-[510px] px-4 rounded-lg bg-transparent border-[1px] border-white w-full
+            className="lg:min-h-[56px] min-h-[51px] px-4 rounded-lg bg-transparent border-[1px] border-white w-full
              placeholder:text-cadet-gray outline-0 font-source-sans lg:text-base text-sm"
           />
           <button type="submit"  onClick={handleRequest} className="bg-risd-blue rounded-lg lg:min-h-[56px] min-h-[50px]
